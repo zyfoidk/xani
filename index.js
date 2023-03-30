@@ -165,5 +165,5 @@ client.on('message', (message) => {
 client.on("ready", () => {
 });
 
-client.loginBot(_xhWbzyDaGStXjWuwvgVPgrAOS3MGeWsc-sHO2U8u3YaBdaCKbTXzUiQM1treN2K);
+client.loginBot("_xhWbzyDaGStXjWuwvgVPgrAOS3MGeWsc-sHO2U8u3YaBdaCKbTXzUiQM1treN2K");
 keepAlive();
